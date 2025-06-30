@@ -47,13 +47,13 @@ Each session contains:
 
 ## 📒 Notebooks
 
-### 1. `train_model.ipynb`
+### 1. `SenseCap_v4_2_globalModel_balancedData.ipynb`
 Trains a global model on all available sessions except for a selected test session.
 - Windowing (e.g. `window_size = 60` frames)
 - Sensor fusion into 27-feature windows
-- Classification using an LSTM (or similar model)
+- Classification using an LSTM 
 
-### 2. `test_one_session.ipynb`
+### 2. `test-one-session_Notebook.ipynb`
 Evaluates the trained model on one **unseen session**:
 - Visualizes `true vs predicted labels`
 - Calculates metrics like accuracy, confusion matrix, etc.
