@@ -90,7 +90,8 @@ Sequence labels are mapped to the corresponding frame ranges.
 
 ---
 
-#Contact
+## Contact
 Project Team: Marlene Brandster & Ruven Overberg
+
 further information/questions: ruven.overberg@gmx.de  bm6109@mci4me.at
 
