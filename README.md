@@ -12,14 +12,23 @@ This project focuses on recognizing and classifying movement patterns (e.g. jump
 All data is stored in **Google Drive**, organized by session:
 
 Google Drive/
+
 └── ML-MTB-Modell/
+
 ├── Session_01/
+
 │ ├── Head_123.csv
+
 │ ├── Wrist_123.csv
+
 │ ├── Seat_123.csv
+
 │ ├── hot.json # Fine-grained labels (Action, Pedaling, etc.)
+
 │ └── sequences.json # Coarse sequence labels (Jumping, Turning, etc.)
+
 ├── Session_02/
+
 │ └── ...
 └── ...
 
